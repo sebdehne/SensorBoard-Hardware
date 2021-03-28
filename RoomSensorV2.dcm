@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231SN#
+F https://no.mouser.com/datasheet/2/256/DS3231-1513891.pdf
+$ENDCMP
+#
+#End Doc Library

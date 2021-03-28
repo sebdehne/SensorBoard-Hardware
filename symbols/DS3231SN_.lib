@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# DS3231SN#
+#
+DEF DS3231SN# U 0 40 Y Y 1 L N
+F0 "U" -391 442 50 H V L BNN
+F1 "DS3231SN#" -401 -501 50 H V L BNN
+F2 "SOIC127P1032X265-16N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Maxim Intergrated" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X VBAT 14 600 200 200 L 40 40 0 0 W 
+X 32KHZ 1 600 0 200 L 40 40 0 0 O 
+X ~RST 4 -600 300 200 R 40 40 0 0 I 
+X SQW/~INT 3 600 -100 200 L 40 40 0 0 O 
+X SCL 16 -600 0 200 R 40 40 0 0 I C
+X SDA 15 -600 -100 200 R 40 40 0 0 B 
+X GND 13 600 -300 200 L 40 40 0 0 W 
+X VCC 2 600 300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
