@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name RoomSensorV2)(type Legacy)(uri ${KIPRJMOD}/RoomSensorV2.lib)(options "")(descr ""))
+  (lib (name RoomSensorV2-rescue)(type Legacy)(uri ${KIPRJMOD}/RoomSensorV2-rescue.lib)(options "")(descr ""))
 )
