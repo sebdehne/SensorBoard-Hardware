@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAMD21G18A-A
+D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, TQFP-48
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
+$ENDCMP
+#
 $CMP DS3231SN#
 F https://no.mouser.com/datasheet/2/256/DS3231-1513891.pdf
 $ENDCMP
