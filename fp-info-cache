@@ -1,4 +1,4 @@
-19089811056128177
+19093047685047177
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76251,12 +76251,26 @@ ChipCap2SIP
 4
 4
 RoomSensorV2
+JAE_DX07S016JA1R1500
+
+
+0
+18
+18
+RoomSensorV2
 RM095
 
 
 0
 47
 47
+RoomSensorV2
+SHF-105-01-X-D-SM
+0.050 X0.050 SHROUDED TERMINAL STRIP ASSEMBLY, 10PINS.
+
+0
+10
+10
 RoomSensorV2
 SOT143B
 Plastic Surface-mounted Package; 4 leads

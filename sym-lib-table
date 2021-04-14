@@ -2,4 +2,5 @@
   (lib (name RoomSensorV2)(type Legacy)(uri ${KIPRJMOD}/RoomSensorV2.lib)(options "")(descr ""))
   (lib (name RoomSensorV2-rescue)(type Legacy)(uri ${KIPRJMOD}/RoomSensorV2-rescue.lib)(options "")(descr "")(disabled))
   (lib (name PRTR5V0U2X_215)(type Legacy)(uri /Users/sebas/Downloads/PRTR5V0U2X_215/PRTR5V0U2X_215.lib)(options "")(descr "")(disabled))
+  (lib (name DX07S016JA1R1500)(type Legacy)(uri /Users/sebas/Downloads/DX07S016JA1R1500/DX07S016JA1R1500.lib)(options "")(descr "")(disabled))
 )
